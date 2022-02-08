@@ -38,3 +38,17 @@
 }
 
 
+.card{
+  width: 300px;
+  height: auto;
+  border: 1px solid yellow;
+  background-color: blue;
+  padding: 10px;
+}
+.cardHeader{
+  padding: 5px;
+  border-bottom: 1px solid;
+}
+.cardFooter{
+  padding: 10px;
+}
