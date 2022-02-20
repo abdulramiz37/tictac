@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tictac/static/css/main.6fb2ce58.css",
-    "main.js": "/Tictac/static/js/main.aad8a3bb.js",
-    "static/js/787.3441e20e.chunk.js": "/Tictac/static/js/787.3441e20e.chunk.js",
-    "index.html": "/Tictac/index.html",
-    "main.6fb2ce58.css.map": "/Tictac/static/css/main.6fb2ce58.css.map",
-    "main.aad8a3bb.js.map": "/Tictac/static/js/main.aad8a3bb.js.map",
-    "787.3441e20e.chunk.js.map": "/Tictac/static/js/787.3441e20e.chunk.js.map"
+    "main.css": "/tictac/static/css/main.6fb2ce58.css",
+    "main.js": "/tictac/static/js/main.420eb63d.js",
+    "static/js/787.cd12e02b.chunk.js": "/tictac/static/js/787.cd12e02b.chunk.js",
+    "index.html": "/tictac/index.html",
+    "main.6fb2ce58.css.map": "/tictac/static/css/main.6fb2ce58.css.map",
+    "main.420eb63d.js.map": "/tictac/static/js/main.420eb63d.js.map",
+    "787.cd12e02b.chunk.js.map": "/tictac/static/js/787.cd12e02b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fb2ce58.css",
-    "static/js/main.aad8a3bb.js"
+    "static/js/main.420eb63d.js"
   ]
 }
